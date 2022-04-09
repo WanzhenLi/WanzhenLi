@@ -13,7 +13,7 @@ Breaking the Caesar cipher requires the use of an alphabetical frequency table. 
 The vigenere cipher is similar. According to the key letter corresponding to the given key, each letter is shifted by different digits in order.
 More detailed thoughs is as the pic below.
 
-![img_1.png](img_1.png)
+![image](https://github.com/WanzhenLi/WanzhenLi/blob/main/readme_pdf.pdf)
 
 Extra:
 1.OTP is created by randomly generating a string of characters or numbers that will be at least as long as the longest message that will be sent.
